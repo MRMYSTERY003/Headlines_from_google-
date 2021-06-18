@@ -10,3 +10,5 @@ command for installing GoogleNews : pip install GoogleNews
 enter the place from where you need to get the news form  (by default it is India)
 then enter the number of pages (by default it is 1)
 thats it
+
+youtube vidoe link : https://www.youtube.com/watch?v=sKWDhNemT9g
